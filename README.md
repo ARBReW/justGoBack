@@ -1,8 +1,10 @@
 <p align="center">
-  <a href="https://github.com/brianlee9090/CC24-seniorprojectfront" target="blank"><img src="./logo.png" width="320" alt="Just Go Logo" /></a>
+  <a href="https://github.com/ARBReW/justGoFront" target="blank"><img src="./logo.png" width="320" alt="Just Go Logo" /></a>
 </p>
 
-  <p align="center">An API built for the <a href="https://github.com/brianlee9090/CC24-seniorprojectfront" target="_blank"> Just GO</a> App to serve directions, place information, and geocoding.</p>
+
+<p align="center">An API built for the <a href="https://github.com/brianlee9090/CC24-seniorprojectfront" target="_blank"> Just GO</a> App to serve directions, place information, and geocoding.</p>
+
 
 
 ## Built With
